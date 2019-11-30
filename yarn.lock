@@ -4567,10 +4567,9 @@ ember-named-arguments-polyfill@^1.0.0:
     ember-cli-babel "^6.6.0"
     ember-cli-version-checker "^2.1.2"
 
-ember-popper@^0.10.1:
+ember-popper@lan0/ember-popper#8a9456f:
   version "0.10.3"
-  resolved "https://registry.yarnpkg.com/ember-popper/-/ember-popper-0.10.3.tgz#222ecce35a6777364bec7ec293437f27a28713a1"
-  integrity sha512-mSSUHIVGFYr8yYDjPhnIlma/vxMptm7a3pySZWK29YSEDDgsEviL7sAhOiNxvV8/uaRmCbJj/2M68dYYGed1Dw==
+  resolved "https://codeload.github.com/lan0/ember-popper/tar.gz/8a9456f15d42260266eaf293bc9f2bdb022ea285"
   dependencies:
     babel6-plugin-strip-class-callcheck "^6.0.0"
     ember-angle-bracket-invocation-polyfill "^2.0.2"
@@ -4582,7 +4581,7 @@ ember-popper@^0.10.1:
     ember-raf-scheduler "^0.1.0"
     ember-ref-modifier "^0.1.2"
     fastboot-transform "^0.1.0"
-    popper.js "^1.14.1"
+    popper.js "^1.16.0"
 
 ember-power-select@^2.3.3:
   version "2.3.5"
@@ -8429,10 +8428,10 @@ pkg-up@^2.0.0:
   dependencies:
     find-up "^2.1.0"
 
-popper.js@^1.14.1:
-  version "1.15.0"
-  resolved "https://registry.yarnpkg.com/popper.js/-/popper.js-1.15.0.tgz#5560b99bbad7647e9faa475c6b8056621f5a4ff2"
-  integrity sha512-w010cY1oCUmI+9KwwlWki+r5jxKfTFDVoadl7MSrIujHU5MJ5OR6HTDj6Xo8aoR/QsA56x8jKjA59qGH4ELtrA==
+popper.js@^1.16.0:
+  version "1.16.0"
+  resolved "https://registry.yarnpkg.com/popper.js/-/popper.js-1.16.0.tgz#2e1816bcbbaa518ea6c2e15a466f4cb9c6e2fbb3"
+  integrity sha512-+G+EkOPoE5S/zChTpmBSSDYmhXJ5PsW8eMhH8cP/CQHMFPBG/kC9Y5IIw6qNYgdJ+/COf0ddY2li28iHaZRSjw==
 
 portfinder@^1.0.21:
   version "1.0.25"
